@@ -37,7 +37,7 @@
                         <li class="nav-item">
                             <a class="nav-link text-light" href="signinform.php">Sign in</a>
                         </li>
-                        <li class="nav-item">                            
+                        <li class="nav-item">
                             <a class="nav-link text-light" href="signout.php">Sign out</a>
                         </li>
                         <li class="nav-item">
@@ -80,4 +80,3 @@
 </body>
 
 </html>
-
