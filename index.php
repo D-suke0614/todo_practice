@@ -64,7 +64,7 @@ $tasks = $task->getAll();
                     <div class="card-body">
                         <h5 class="card-title"><?= h($task["title"]); ?></h5>
                         <p class="card-text">
-                            <? h($task["contents"]); ?>
+                            <?= h($task["contents"]); ?>
                         </p>
                         <div class="text-right d-flex justify-content-end">
                             <!-- * href内を変更する -->
